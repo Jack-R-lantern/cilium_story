@@ -4,6 +4,9 @@
 ### 참조자료
 * https://arthurchiao.art/blog/conntrack-design-and-implementation/#1-introduction
 
+### 개요
+`Conntrack`은 수 많은 네트워크 서비스 및 어플리케이션의 기반.\
+대표적은 것들로는 `Kubernetes Service`, `ServiceMesh Sidecar`, `LVS/IPVS`, `Docker Network`, `OpenSwitch(OVS)`, `OpenStack security group`등이 있음.
 
 ## iproute2 BPF
 ### 참조자료
